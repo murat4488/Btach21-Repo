@@ -1,1 +1,6 @@
 something
+more stuff has been added
+we are cloning
+remote some changes
+making some changes
+committing the changes
