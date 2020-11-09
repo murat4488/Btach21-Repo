@@ -4,3 +4,4 @@ we are cloning
 remote some changes
 making some changes
 committing the changes
+file more
